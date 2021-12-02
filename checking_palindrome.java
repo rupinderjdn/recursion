@@ -1,6 +1,6 @@
 package recursion;
-import java.util.*;
-import java.io.*;
+//import java.util.*;
+//import java.io.*;
 public class checking_palindrome {
 
 	public static void main(String[] args) {
