@@ -4,7 +4,7 @@ public class QuickSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] a=new int[] {5,2,36,3,4,1};
+		int[] a=new int[] {5,2, 36,3,4,1};
 		display(a,a.length);
 		quick_sort(a,0,a.length-1);
 		display(a,a.length);
